@@ -13,6 +13,4 @@ package CadastroProduto;
 
         }
 
-
-
 }
