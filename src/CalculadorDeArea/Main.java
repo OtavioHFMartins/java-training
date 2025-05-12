@@ -15,8 +15,6 @@ public class Main {
             System.out.println("Forma: " + FormaGeometrica.RETARGULO +" "+ "Area:" + areaRetangulo);
             System.out.println("Forma: " + FormaGeometrica.QUADRADO +" "+"Area:" + areaQuadrado);
 
-
-
         }
 
 
